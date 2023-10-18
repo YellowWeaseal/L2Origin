@@ -1,0 +1,6 @@
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-10T23:41:29+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-10T23:41:35+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-10T23:41:35+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-10T23:45:59+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-10T23:46:01+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-10T23:46:01+03:00"}
